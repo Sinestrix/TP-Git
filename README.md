@@ -142,4 +142,5 @@ Liste des étudiants ayant réussi ce TP
 * Clement DOSDA,
 * Valentin BONINO,
 * Baptiste LOMBARDO,
-* Maxime REUT.
+* Maxime REUT,
+* Jean-Michel LY.
