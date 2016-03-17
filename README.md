@@ -141,4 +141,6 @@ Liste des étudiants ayant réussi ce TP
 * Romain GAGNAIRE,
 * Clement DOSDA,
 * Valentin BONINO,
-* Baptiste LOMBARDO.
+* Baptiste LOMBARDO,
+* Jean-Michel LY
+* Bozor LE CLOWN.
